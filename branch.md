@@ -3,7 +3,7 @@ Hi this is another test for branch
 1
 2
 3
-4
+4Hi this is brnaching test by branch auth
 5
 6
 7
